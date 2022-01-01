@@ -5,7 +5,7 @@ import time
 import os
 import json
 
-subreddits = ['Scottishpeopletwitter','Britishproblems','Purplepilldebate','Sinkpissers','Boneappletea','Whereareallthegoodmen']
+subreddits = ['eagles','nfl','Dynastyff','StarWars','movies']
 ignored_users = ['[deleted]', 'automoderator']
 lookback_days = 180
 min_comments_per_sub = 1
